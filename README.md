@@ -1,3 +1,3 @@
-TooCoin (FOO)
+TooCoin (TOO)
 
 Blah, blah, blah.
